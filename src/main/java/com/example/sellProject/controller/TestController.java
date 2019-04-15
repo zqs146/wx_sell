@@ -9,7 +9,7 @@ public class TestController {
 
     @RequestMapping("/hello")
     public String test1(){
-        System.out.println("hello springboot");
+        System.out.println("hello  sprngboot");
         return "hello springboot";
     }
 
